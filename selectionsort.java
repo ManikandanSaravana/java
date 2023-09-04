@@ -45,7 +45,7 @@ class m
 {
     public static void main(String[]args)
     {
-        bubblesort o=new bubblesort();
+        selectionsort o=new selectionsort();
         o.input();
         o.sort();
         o.display();
